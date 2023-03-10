@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  body{
+    margin:0px;
+    padding:0px;
+    font-family: "Open Sans", "Tahoma", "Verdana", sans-serif;
+  }
+  .blog{
+    padding:100px 0px;
+    display: block;
+  }
+  .hold  > p {
+    color:black;
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 0 15px;
+  }
+  .title {
+      display: block;
+      margin: 0 0 20px;
+      font-size: 35px;
+      font-weight: 600;
+      color: #333;
+      text-align: center;
+  }
+  
+  
