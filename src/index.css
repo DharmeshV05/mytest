@@ -23,7 +23,7 @@ hgroup,
 menu,
 nav,
 section {
-  display: block;
+  display: flex;
 }
 .center-side {
   background: linear-gradient(to right, #e16459, #9d62a3);

@@ -3,6 +3,7 @@ body,
 ol,
 ul,
 table {
+  display: flex;
   margin: 0;
   padding: 0;
   border: 0;
@@ -21,7 +22,7 @@ hgroup,
 menu,
 nav,
 section {
-  display: block;
+  display: flex;
 }
 body {
   background: linear-gradient(to right, #e16459, #9d62a3);
