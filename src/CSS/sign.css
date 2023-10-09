@@ -22,7 +22,7 @@ hgroup,
 menu,
 nav,
 section {
-  display: flex;
+  display: block;
 }
 body {
   background: linear-gradient(to right, #e16459, #9d62a3);
